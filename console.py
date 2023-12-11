@@ -34,7 +34,7 @@ def parse(arg):
 class HBNBCommand(cmd.Cmd):
     """Defines the HolbertonBnB command interpreter.
 
-    Attributes:
+    Attribute:
         prompt (str): The command prompt.
     """
 
